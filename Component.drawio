@@ -10,8 +10,13 @@
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-3" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Goudurix Calculator&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M5cBxvrzXzzBGcpSKK4V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M5cBxvrzXzzBGcpSKK4V-5" target="M5cBxvrzXzzBGcpSKK4V-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="M5cBxvrzXzzBGcpSKK4V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M5cBxvrzXzzBGcpSKK4V-5" target="M5cBxvrzXzzBGcpSKK4V-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="235" />
+              <mxPoint y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -23,7 +28,7 @@
           <mxGeometry x="-290" y="180" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-7" value="&lt;b&gt;View&lt;/b&gt;&lt;div&gt;[Class]&lt;/div&gt;&lt;div&gt;Contient les portefeuilles intitial et final et des informations pour initialiser l&#39;application&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="150" width="240" height="80" as="geometry" />
+          <mxGeometry x="260" y="160" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-9" value="Crée ou modifie 1 instance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-180" y="180" width="170" height="30" as="geometry" />
@@ -110,7 +115,7 @@
           <mxGeometry x="420" y="420" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-43" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;[Composant] Goudurix Calculator&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-47.5" width="470" height="120" as="geometry" />
+          <mxGeometry y="-50" width="470" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
