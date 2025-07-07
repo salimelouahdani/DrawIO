@@ -27,7 +27,7 @@
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Goudurix App&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Application Web&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-290" y="180" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="M5cBxvrzXzzBGcpSKK4V-7" value="&lt;b&gt;View&lt;/b&gt;&lt;div&gt;[Class]&lt;/div&gt;&lt;div&gt;Contient les portefeuilles intitial et final et des informations pour initialiser l&#39;application&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M5cBxvrzXzzBGcpSKK4V-7" value="&lt;b&gt;View&lt;/b&gt;&lt;div&gt;[Class]&lt;/div&gt;&lt;div&gt;Contient les portefeuilles intitial et final et des informations pour initialiser l&#39;application&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="260" y="160" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-9" value="Crée ou modifie 1 instance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -49,19 +49,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M5cBxvrzXzzBGcpSKK4V-10" value="&lt;b&gt;fund_data&lt;/b&gt;&lt;div&gt;[Class]&lt;/div&gt;&lt;div&gt;Contient les données d&#39;entrée des calculs, les instruments et le benchmark.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M5cBxvrzXzzBGcpSKK4V-10" value="&lt;b&gt;fund_data&lt;/b&gt;&lt;div&gt;[Class]&lt;/div&gt;&lt;div&gt;Contient les données d&#39;entrée des calculs, les instruments et le benchmark.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M5cBxvrzXzzBGcpSKK4V-12" value="&lt;b&gt;metric_data&lt;/b&gt;&lt;br&gt;&lt;div&gt;[Class]&lt;/div&gt;&lt;div&gt;Contient l&#39;ensemble des métriques auxquels on s&#39;intérésse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M5cBxvrzXzzBGcpSKK4V-12" value="&lt;b&gt;metrics&lt;/b&gt;&lt;br&gt;&lt;div&gt;[Class]&lt;/div&gt;&lt;div&gt;Contient l&#39;ensemble des métriques auxquels on s&#39;intérésse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="490" y="300" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M5cBxvrzXzzBGcpSKK4V-14" target="M5cBxvrzXzzBGcpSKK4V-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M5cBxvrzXzzBGcpSKK4V-14" value="&lt;b&gt;instrument_data&lt;/b&gt;&lt;div&gt;[Class]&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;Contient les données d&#39;entrée des calculs relatifs à un seul instrument&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M5cBxvrzXzzBGcpSKK4V-14" value="&lt;b&gt;instrument_data&lt;/b&gt;&lt;div&gt;[Class]&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;Contient les données d&#39;entrée des calculs relatifs à un seul instrument&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="40" y="500" width="210" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="M5cBxvrzXzzBGcpSKK4V-18" value="&lt;b&gt;benchmark&lt;/b&gt;&lt;div&gt;[Class]&lt;/div&gt;&lt;div&gt;Contient les données d&#39;entrée des calculs relatifs au benchmark&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M5cBxvrzXzzBGcpSKK4V-18" value="&lt;b&gt;benchmark_data&lt;/b&gt;&lt;div&gt;[Class]&lt;/div&gt;&lt;div&gt;Contient les données d&#39;entrée des calculs relatifs au benchmark&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="274" y="400" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5cBxvrzXzzBGcpSKK4V-18">
@@ -78,7 +78,7 @@
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M5cBxvrzXzzBGcpSKK4V-14" target="M5cBxvrzXzzBGcpSKK4V-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M5cBxvrzXzzBGcpSKK4V-27" value="&lt;b&gt;views_database&lt;/b&gt;&lt;br&gt;&lt;div&gt;Dictionnaire python&amp;nbsp;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="M5cBxvrzXzzBGcpSKK4V-27" value="&lt;b&gt;views_database&lt;/b&gt;&lt;br&gt;&lt;div&gt;Dictionnaire Python&amp;nbsp;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-300" y="-60" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-29" value="Stock l&#39;instance view en&amp;nbsp;&lt;div&gt;l&#39;associant avec l&#39;id de session&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
