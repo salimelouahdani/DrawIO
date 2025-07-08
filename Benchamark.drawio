@@ -101,6 +101,9 @@
         <mxCell id="3Br_ud49PPdMieKtLJ-I-49" value="Utilise" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="260" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3Br_ud49PPdMieKtLJ-I-50" value="Appelle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
