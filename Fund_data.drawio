@@ -73,10 +73,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhRnbUlI3p6U2ewP2E0r-49" value="Appelle dans l&#39;ordre" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="642.5" width="101" height="30" as="geometry" />
+          <mxGeometry x="414" y="636.5" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xhRnbUlI3p6U2ewP2E0r-50" value="Appelle dans l&#39;ordre" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="751" y="540" width="101" height="30" as="geometry" />
+          <mxGeometry x="751" y="532" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xhRnbUlI3p6U2ewP2E0r-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xhRnbUlI3p6U2ewP2E0r-51" target="xhRnbUlI3p6U2ewP2E0r-52">
           <mxGeometry relative="1" as="geometry" />
