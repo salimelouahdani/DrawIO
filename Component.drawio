@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="Page-1" id="_0tpOPSg2hLBpMA6f7jO">
-    <mxGraphModel dx="2245" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2495" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
             <mxPoint x="558" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M5cBxvrzXzzBGcpSKK4V-23" value="&lt;b&gt;Reflix&lt;/b&gt;&lt;div&gt;Base de données&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="M5cBxvrzXzzBGcpSKK4V-23" value="&lt;b&gt;Reflix&lt;/b&gt;&lt;div&gt;[Base de données]&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-330" y="420" width="180" height="205" as="geometry" />
         </mxCell>
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.229;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M5cBxvrzXzzBGcpSKK4V-18" target="M5cBxvrzXzzBGcpSKK4V-23">
@@ -78,7 +78,7 @@
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M5cBxvrzXzzBGcpSKK4V-14" target="M5cBxvrzXzzBGcpSKK4V-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M5cBxvrzXzzBGcpSKK4V-27" value="&lt;b&gt;views_database&lt;/b&gt;&lt;br&gt;&lt;div&gt;Dictionnaire Python&amp;nbsp;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="M5cBxvrzXzzBGcpSKK4V-27" value="&lt;b&gt;views_database&lt;/b&gt;&lt;br&gt;&lt;div&gt;[Dictionnaire Python]&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-300" y="-60" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="M5cBxvrzXzzBGcpSKK4V-29" value="Stock l&#39;instance view en&amp;nbsp;&lt;div&gt;l&#39;associant avec l&#39;id de session&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
