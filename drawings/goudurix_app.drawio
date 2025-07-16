@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.5">
+  <diagram name="Page-1" id="zB0wh8MZBSbv0WOSixad">
+    <mxGraphModel dx="978" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9f5xznGiLbAwQ08-P3wS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="340" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="9f5xznGiLbAwQ08-P3wS-2" value="Import des dépendences" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="60" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9f5xznGiLbAwQ08-P3wS-3" value="Définition des objets app et server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9f5xznGiLbAwQ08-P3wS-4" value="Défintion du Layout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9f5xznGiLbAwQ08-P3wS-5" value="Définition des callbacks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9f5xznGiLbAwQ08-P3wS-6" value="Exécution de l&#39;application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="270" y="510" width="320" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
